@@ -131,11 +131,12 @@ h6 {
 }
 
 .university-logo {
-  max-width: 640px;
+  max-width: 80px;
+  margin: 6px;
 }
 
 .clg-logo {
-  max-width: 80px;
+  max-width: 100px;
 }
 
 .container-text {
